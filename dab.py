@@ -1,8 +1,9 @@
 boof_input = input('dab ')
+input_stripped = boof_input.strip()
 
-if boof_input.strip() == 'dab':
+if input_stripped == 'dab':
 	print("DABBBBB")
-elif boof_input.strip() == 'aab':
+elif input_stripped == 'aab':
 	print("App")
 else:
 	print("And I oop")
