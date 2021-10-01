@@ -1,13 +1,12 @@
 ### Hi there 👋, my name is Super02
+![Profile views](https://gpvc.arturio.dev/Super02)
+
 #### I like programming in my free time
 
-- 📫 How to reach me: github@super02.me 
+<a href="https://github.com/Super02">
+  <img width="50%" align="right" alt="Super02's github stats" src="https://github-readme-stats.vercel.app/api?username=Super02&show_icons=true" />
+</a>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Super02)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super02)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Super02&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Super02)  
+- 📫 Contact me through: github@super02.me
+- 🖥️ Active maintainer of [AntiRickRoll](https://rickrolldb.me/)
+- 📖 [My most embarrasing story](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
