@@ -1,10 +1,12 @@
-boof_input = input('dab ')
-input_stripped = boof_input.strip()
+# Get users input
+boof_input = input('dab ').strip()
 
-if input_stripped == 'dab':
+if boof_input == 'dab':
 	print("DABBBBB")
-elif input_stripped == 'aab':
-	print("App"*3)
+elif boof_input == 'aab':
+	print("App"*69)
 else:
+	# And i oop
 	print("And I oop"*3)
+	# And i oof
 	print("And oof")
