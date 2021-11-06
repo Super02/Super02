@@ -10,5 +10,5 @@ I like programming in my free time
 #### About me
 
 - 📫 Contact me through: github@super02.me
-- 🖥️ Active maintainer of [AntiRickRoll](https://rickrolldb.me/)
+- 🖥️ Active maintainer of [AntiRickRoll](https://antirickroll.com/)
 - 📖 [My most embarrasing story](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
