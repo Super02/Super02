@@ -9,8 +9,8 @@ I like programming in my free time
 
 #### About me
 
-- 📫 Contact me through: github@super02.me
+- 📫 Contact me through: super02@duck.com
 - 🖥️ Active maintainer of [AntiRickRoll](https://antirickroll.com/)
 - 📖 [My most embarrasing story](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- 📱  Discord: Super02#3763
+- 📱  Discord: Super02#1337
 
